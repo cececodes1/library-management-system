@@ -48,10 +48,6 @@ classes.py: Defines the Book, User, and Author classes
 Authors
 Sierra Michel 
 
-Acknowledgments
-[List any acknowledgments or credits you'd like to give]
-Version History
-v1.0: Initial release
 
 Contributing
 Contributions to the Library Management System are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
